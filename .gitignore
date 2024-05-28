@@ -1,4 +1,7 @@
 target/
+.idea
+HELP.md
+Neo4j-5d296717-Created-2024-05-28.txt
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
